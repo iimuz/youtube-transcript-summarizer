@@ -1,11 +1,11 @@
 [project]
 authors = [{ name = "iimuz", email = "iz.primary.story+github@gmail.com" }]
-description = "youtube transcript sample."
+description = "YouTube trascript summarizer."
 license = { file = "LICENSE" }
-name = "youtube-transcript-sample"
+name = "youtube-transcript-summarizer"
 readme = "README.md"
 requires-python = ">=3.10"
-urls = { repository = "https://github.com/iimuz/youtube-transcript-sample" }
+urls = { repository = "https://github.com/iimuz/youtube-transcript-summarizer" }
 version = "1.0.0"
 
 dependencies = [
@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [tools.setuptools.package-dir]
-youtube_transcript_sample = "src"
+youtube_transcript_summarizer = "src"
 
 [project.optional-dependencies]
 dev = [
