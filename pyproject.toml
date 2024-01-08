@@ -1,6 +1,6 @@
 [project]
 authors = [{ name = "iimuz", email = "iz.primary.story+github@gmail.com" }]
-description = "YouTube trascript summarizer."
+description = "YouTube transcript summarizer."
 license = { file = "LICENSE" }
 name = "youtube-transcript-summarizer"
 readme = "README.md"
