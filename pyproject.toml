@@ -4,7 +4,7 @@ description = "YouTube trascript summarizer."
 license = { file = "LICENSE" }
 name = "youtube-transcript-summarizer"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 urls = { repository = "https://github.com/iimuz/youtube-transcript-summarizer" }
 version = "1.0.0"
 
